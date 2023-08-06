@@ -18,12 +18,12 @@ blockquote>cite {
 
 @font-face {
     font-family: "Caveat";
-    src: url("./Caveat-Regular.ttf");
+    src: url("Caveat-Regular.ttf");
 }
 
 @font-face {
     font-family: "Pop Star";
-    src: url("./popstarAutograph.ttf");
+    src: url("popstarAutograph.ttf");
 }
 
 
