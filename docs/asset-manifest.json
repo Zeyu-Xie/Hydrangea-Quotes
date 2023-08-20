@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc5b918c.css",
-    "main.js": "/static/js/main.5b7592f4.js",
-    "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.1f129497cd349562c266.ttf",
-    "static/media/popstarAutograph.ttf": "/static/media/popstarAutograph.71cb3d1defa53c161100.ttf",
-    "index.html": "/index.html",
-    "main.cc5b918c.css.map": "/static/css/main.cc5b918c.css.map",
-    "main.5b7592f4.js.map": "/static/js/main.5b7592f4.js.map"
+    "main.css": "./static/css/main.579a0447.css",
+    "main.js": "./static/js/main.5b7592f4.js",
+    "static/media/Caveat-Regular.ttf": "./static/media/Caveat-Regular.1f129497cd349562c266.ttf",
+    "static/media/bg.png": "./static/media/bg.d90d624a4e15aadc01d8.png",
+    "static/media/popstarAutograph.ttf": "./static/media/popstarAutograph.71cb3d1defa53c161100.ttf",
+    "index.html": "./index.html",
+    "main.579a0447.css.map": "./static/css/main.579a0447.css.map",
+    "main.5b7592f4.js.map": "./static/js/main.5b7592f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc5b918c.css",
+    "static/css/main.579a0447.css",
     "static/js/main.5b7592f4.js"
   ]
 }
